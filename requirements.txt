@@ -1,9 +1,5 @@
 kaggle
+alpbench
 tensorflow
-numpy
 seaborn
-matplotlib
-scikit-learn
-ipykernel
 tensorboard
-xgboost
